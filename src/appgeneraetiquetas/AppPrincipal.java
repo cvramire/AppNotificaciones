@@ -25,7 +25,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Lucas Monce
+ * @author Carlos Ramirez
  */
 public class AppPrincipal extends javax.swing.JFrame {
 
